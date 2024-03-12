@@ -24,6 +24,6 @@
   },
   "devDependencies": {
     "@tsconfig/node-lts": "^20.1.1",
-    "@types/node": "^20.11.20"
+    "@types/node": "^20.11.26"
   }
 }

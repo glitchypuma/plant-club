@@ -1,5 +1,3 @@
-import NavBar from "../components/NavBar"
-
 export function Account(){
     return(
         <main>
